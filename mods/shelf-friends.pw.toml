@@ -1,0 +1,13 @@
+name = "Shelf Friends"
+filename = "shelffriends-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "75dcd30d261afea0fe9c4437a32b2c4605945216"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5747893
+project-id = 1107757

@@ -1,0 +1,13 @@
+name = "Burnable Cobwebs"
+filename = "burnable_cobwebs-fabric-0.1.7+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c1e2a4c6f7b817357583a2d4799d4590bae88616"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5877963
+project-id = 1132367

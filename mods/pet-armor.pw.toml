@@ -1,0 +1,13 @@
+name = "Pet Armor"
+filename = "pet-armor-1.2.2-1.20.X.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "da8f0dc3e867541d55e3ed772138092e42f0c166"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5022048
+project-id = 893535
