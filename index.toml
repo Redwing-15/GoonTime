@@ -1076,11 +1076,6 @@ hash = "018fa21263c7112845aa3ba26d493675de186996182bbdd4a42f22180192d0c1"
 metafile = true
 
 [[files]]
-file = "mods/shelf-mod.pw.toml"
-hash = "5258397af4f642b890bc23164a999123d3b141b79b440b14138006cb542b1d00"
-metafile = true
-
-[[files]]
 file = "mods/shetiphiancore-fabric.pw.toml"
 hash = "3b03f4b7b60406fcff6574b001f77f7bf2daf00bc0c6ba04824e2edcd54ae822"
 metafile = true
