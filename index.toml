@@ -1048,7 +1048,7 @@ hash = "a359e2728c06eb582ee4ee9ab2c4073c375a7c658f61453612a8a5e82e0fae70"
 
 [[files]]
 file = "mods/portable-spawners.pw.toml"
-hash = "44c15d75adbf75c15e36f61d5bdc65abe3ed5be556024fa8b1bf8ebc7f1d6c55"
+hash = "28010e1b4547a630e350371db4dd8213438db63b10b2d64d224926f4bcf265a1"
 metafile = true
 
 [[files]]
