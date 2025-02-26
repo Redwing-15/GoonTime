@@ -1043,11 +1043,6 @@ hash = "dc8e8bf3f67bd84a280f7158f72f2eb24abdc7c80ab970d282fee4a227ed622b"
 metafile = true
 
 [[files]]
-file = "mods/portable-spawners.pw.toml"
-hash = "e8a32f5bffdbff55a11415c38e9ffbe513bcae72109c60cf45f11d90be057aaa"
-metafile = true
-
-[[files]]
 file = "mods/portablespawner-fabric-1.20.1-1.0.1.jar"
 hash = "a359e2728c06eb582ee4ee9ab2c4073c375a7c658f61453612a8a5e82e0fae70"
 
