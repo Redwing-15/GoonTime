@@ -9,14 +9,6 @@ file = "config/InventoryHUD/trinkets.json"
 hash = "054b65785564300e4567118088dac20838665d3ae0aefff379b32534f8d22797"
 
 [[files]]
-file = "config/advanced-xray-fabric/blocks.json"
-hash = "f39ac0e248665c4aef5257815a1462216ac209d0e3f56badd36c36c72363bab2"
-
-[[files]]
-file = "config/advanced-xray-fabric/settings.json"
-hash = "f15581307dc876f3099b4d8bb266a4e30c59adae68656ed86f3e8aba642121e8"
-
-[[files]]
 file = "config/appleskin.json5"
 hash = "ab1c8bb9300495527db39f502d4e761733037982752c324e2b248b1b68a31e49"
 
@@ -1056,6 +1048,10 @@ hash = "e8a32f5bffdbff55a11415c38e9ffbe513bcae72109c60cf45f11d90be057aaa"
 metafile = true
 
 [[files]]
+file = "mods/portablespawner-fabric-1.20.1-1.0.1.jar"
+hash = "a359e2728c06eb582ee4ee9ab2c4073c375a7c658f61453612a8a5e82e0fae70"
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "0262df78f767ee3ef2d32c1815b82b2f5710ea7c934bd875639a711197f27342"
 metafile = true
@@ -1179,7 +1175,3 @@ metafile = true
 file = "mods/zombie-horse-spawn.pw.toml"
 hash = "ed136578f0f28975c34788993550bfd356325f71d32055cec0ae140ef8f4edfc"
 metafile = true
-
-[[files]]
-file = "servers.dat"
-hash = "c30b8c793d7d321cd23a6d1a75bce1107fb6a9c0d88251c37088e0fd1d5838df"
