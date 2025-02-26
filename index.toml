@@ -1043,8 +1043,13 @@ hash = "dc8e8bf3f67bd84a280f7158f72f2eb24abdc7c80ab970d282fee4a227ed622b"
 metafile = true
 
 [[files]]
-file = "mods/portablespawner-fabric-1.20.1-1.0.1.jar"
+file = "mods/portable-spawners.jar"
 hash = "a359e2728c06eb582ee4ee9ab2c4073c375a7c658f61453612a8a5e82e0fae70"
+
+[[files]]
+file = "mods/portable-spawners.pw.toml"
+hash = "44c15d75adbf75c15e36f61d5bdc65abe3ed5be556024fa8b1bf8ebc7f1d6c55"
+metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
