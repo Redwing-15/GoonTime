@@ -812,6 +812,11 @@ hash = "303496da3b85fc1f900cca3edd278c25998b5f0a9ab7ace71ca51eb5cc76d885"
 metafile = true
 
 [[files]]
+file = "mods/gravestones-fix.pw.toml"
+hash = "9cc5869f09f90c5f3af001135dc1dedbcdbeccd6f01a6c59cdee2b53afe2f4d5"
+metafile = true
+
+[[files]]
 file = "mods/gravestones.pw.toml"
 hash = "8b5908bca77a358572cb25abfd6353a879a0ce640937d085958eeaa67f64af8b"
 metafile = true
@@ -1043,6 +1048,11 @@ metafile = true
 [[files]]
 file = "mods/pet-armor.pw.toml"
 hash = "dc8e8bf3f67bd84a280f7158f72f2eb24abdc7c80ab970d282fee4a227ed622b"
+metafile = true
+
+[[files]]
+file = "mods/portable-spawners.pw.toml"
+hash = "e8a32f5bffdbff55a11415c38e9ffbe513bcae72109c60cf45f11d90be057aaa"
 metafile = true
 
 [[files]]
