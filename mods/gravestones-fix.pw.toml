@@ -1,6 +1,6 @@
 name = "Gravestones Fix"
 filename = "gravestonesfix-1.1.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/nFIzW822/versions/rlQV9QFX/gravestonesfix-1.1.0.jar"

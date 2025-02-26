@@ -805,7 +805,7 @@ metafile = true
 
 [[files]]
 file = "mods/gravestones-fix.pw.toml"
-hash = "9cc5869f09f90c5f3af001135dc1dedbcdbeccd6f01a6c59cdee2b53afe2f4d5"
+hash = "be7969f7c294396cb8fbaf7cbd182e0b3e18edf8a3681b04a94bff82a0e1ed5d"
 metafile = true
 
 [[files]]
