@@ -829,6 +829,10 @@ hash = "2191748d6ec536fc3d9ee9c7f420a2cb89819176f91124b8dfbdae6bcb05e2e9"
 metafile = true
 
 [[files]]
+file = "mods/hephaestusexpansion-1.0.1h+1.20.1.jar"
+hash = "d0d0d674245e6100ac5d968615c177247745058e634d38d2443158b1ea4002dd"
+
+[[files]]
 file = "mods/horseshoes.pw.toml"
 hash = "1c1d1766ab0c436b8c2316281185f0a54ec14430002465abd054b7300c0ace81"
 metafile = true
