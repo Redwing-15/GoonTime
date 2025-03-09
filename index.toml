@@ -697,6 +697,10 @@ hash = "1dd8248a051e4dcd597b2bce8a231d046173d2f9a18512704aa5a843c3034765"
 metafile = true
 
 [[files]]
+file = "mods/connectiblechains-2.2.1+1.20.1.jar"
+hash = "5c269f4c4e61dcfd803fdbf818202daa1dc15992ae3169ad42e8e926e4cdc8c8"
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "8459128658c0148ba1b89d87b4c86bd62f236c73cff860090eba0b08e49ae9ce"
 metafile = true
