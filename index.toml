@@ -585,8 +585,16 @@ file = "config/zombiehorsespawn.json5"
 hash = "8f5cf5963150c21ba5b2c985440d64db91676533e34792c9e1de1d346d11b81f"
 
 [[files]]
+file = "mods/DiagonalFences-v8.1.5-1.20.1-Fabric.jar"
+hash = "93a3776f38c760db0f74098580ce984e0f8f8e78a4df61b69f67c01e1eee5a61"
+
+[[files]]
 file = "mods/HorseBuff-1.20-2.1.2.jar"
 hash = "96fce1ec8bc95c34304c9a8445e7bca0f4ab6c27c2ead63ae2f019f1e432102d"
+
+[[files]]
+file = "mods/TinySkeletons-v8.0.1-1.20.1-Fabric.jar"
+hash = "d1d8715342c7b029c450f8b5eb48abae51afda7d021fe366b4d4ed484b082145"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -762,6 +770,10 @@ metafile = true
 file = "mods/entityculling.pw.toml"
 hash = "0feec1e2f9e4792552a7c2c9388da011763122b1fb2100321a7e9d9585d7237e"
 metafile = true
+
+[[files]]
+file = "mods/extra-sounds-2.3.1+1.20.1~lonefelidae16-build.1.jar"
+hash = "253398850f0a85936de6b2cbcc7b889d4a84433cee5fb782ca3b205689183d4f"
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
@@ -1099,6 +1111,10 @@ metafile = true
 file = "mods/small-ships.pw.toml"
 hash = "4480e76155118ce6166af2169990b8e7db30f7925ce51d7cac1c397403e037fe"
 metafile = true
+
+[[files]]
+file = "mods/smoothswapping-0.9.3.1-1.20.2-fabric.jar"
+hash = "0b1adc0b30c94a31eba9f6e7d23e5f635382470d969e7398f7572cad07f71f86"
 
 [[files]]
 file = "mods/snow-real-magic-fabric.pw.toml"
