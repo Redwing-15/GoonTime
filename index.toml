@@ -593,6 +593,10 @@ file = "mods/HorseBuff-1.20-2.1.2.jar"
 hash = "96fce1ec8bc95c34304c9a8445e7bca0f4ab6c27c2ead63ae2f019f1e432102d"
 
 [[files]]
+file = "mods/NE-1.20.1-1.9.0(1).jar"
+hash = "4c134f6235930561bb7110a8042ed19e188b2e3d27c0ee69bb47524f518960db"
+
+[[files]]
 file = "mods/TinySkeletons-v8.0.1-1.20.1-Fabric.jar"
 hash = "d1d8715342c7b029c450f8b5eb48abae51afda7d021fe366b4d4ed484b082145"
 
