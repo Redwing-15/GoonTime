@@ -676,6 +676,10 @@ hash = "b01262835210f7df8eaabc8a4863878a7bac326ad376a564e142b6e787966bda"
 metafile = true
 
 [[files]]
+file = "mods/chunkloaders-1.2.8a-fabric-mc1.20.1.jar"
+hash = "698d58ed3bf138f6ed250bcdd5fd7219736715b318e0cd121b3f0e0d09e29167"
+
+[[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "2e7e61c40186800ae0492a6fc6aed81793d66ffabd39f7c57713fa74a1547ce8"
 metafile = true
@@ -1084,6 +1088,10 @@ metafile = true
 file = "mods/resourceful-lib.pw.toml"
 hash = "a716c1404c8efc8fc3c5dc9301253cb2b606ded2062d601b8e237e2266b7cd81"
 metafile = true
+
+[[files]]
+file = "mods/scarecrowsterritory-1.1.11a-fabric-mc1.20.jar"
+hash = "8cdb4d911a0b7f13cd78545f7556f2c35613484f45ca2f4ff1216ae4d546b040"
 
 [[files]]
 file = "mods/selene.pw.toml"
