@@ -1173,6 +1173,14 @@ hash = "1a8631c458bae95073653ed03fc97683c912b0c19ea2e424e7b1ae2b6821ab63"
 metafile = true
 
 [[files]]
+file = "mods/supermartijn642configlib-1.1.8a-fabric-mc1.20.jar"
+hash = "fe76c8cf001878109adbdd2f4ef877b76ddfdefdca91ff9b90353c2e8af8022c"
+
+[[files]]
+file = "mods/supermartijn642corelib-1.1.18a-fabric-mc1.20.1.jar"
+hash = "65db7c4bea17905b4ed4d8c92da52b3e6a8fea79b9075c7aac88ac1f3a480f28"
+
+[[files]]
 file = "mods/toms-storage-fabric.pw.toml"
 hash = "478931df30f16ab7cd220c1fd29562dfe96ff7e0e681840ed0d7828dd4764fe5"
 metafile = true
