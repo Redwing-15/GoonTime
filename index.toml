@@ -1196,6 +1196,10 @@ hash = "d9bfec2cf36b6bae2d85a1136560e047ab8ce1b0e9798e7b6be5d0670f65fb55"
 metafile = true
 
 [[files]]
+file = "mods/tru.e-ending-v1.1.0c.jar"
+hash = "3bf63a4ed7cb9a75727da2301fe0642ce74c9e0384cdb79e9b3570d3ab320aaa"
+
+[[files]]
 file = "mods/vanityslots.pw.toml"
 hash = "be787be72a65f5e9e3abb71d8e1af17aad00d596f6430e47008b21683fcc6e7a"
 metafile = true
